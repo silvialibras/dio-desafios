@@ -1,18 +1,40 @@
-## Getting Started
+☕ Desafio - Sintaxe Java
+
+
+Este repositório contém um desafio prático de sintaxe em Java proposto como um desafio de jornada de aprendizado.
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+🎯 Objetivo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+O objetivo deste desafio é fixar o conhecimento básico de Sintaxe
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Estrutura do método main
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Uso da classe Scanner para entrada de dados
 
-## Dependency Management
+Declaração e concatenação de variáveis
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Impressão de mensagens formatadas com System.out.println
+
+
+🚀 Tecnologias utilizadas
+
+Java JDK 17
+
+Visual Studio Code
+
+GitHub
+
+
+📚 Conteúdo Abordado
+
+Declaração de variáveis (int, String, double)
+
+Entrada de dados com Scanner
+
+Concatenação de strings
+
+Impressão no terminal com mensagens formatadas
+
